@@ -1,0 +1,8 @@
+{
+  "name": "ROOP COLLECTION",
+  "description": "Luxury clothing retail e-commerce platform with full-stack database management, Razorpay checkout, admin CMS, and Microsoft Power BI analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
